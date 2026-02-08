@@ -1,0 +1,2 @@
+
+git remote set-url origin https://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@github.com/lalitkhinchi/inida-.git
